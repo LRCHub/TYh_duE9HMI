@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "トーキョーゲットー",
+  "base_artist": "Eve",
+  "createdAt": "2026-03-03T20:39:21.320675Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "トーキョーゲットー",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_トーキョーゲットー_Eve.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "トーキョーゲットー",
+      "artist": "Eve (57)",
+      "has_synced": true,
+      "path": "select/02_トーキョーゲットー_Eve_(57).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "トーキョーゲットー",
+      "artist": "Eve feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/03_トーキョーゲットー_Eve_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "トーキョーゲットー",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/04_トーキョーゲットー_Eve.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "トーキョーゲットー",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/05_トーキョーゲットー_Eve.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "トーキョーゲットー",
+      "artist": "Eve feat. Hatsune Miku",
+      "has_synced": true,
+      "path": "select/06_トーキョーゲットー_Eve_feat._Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "トーキョーゲットー - Tokyo Ghetto",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/07_トーキョーゲットー_-_Tokyo_Ghetto_Eve.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "トーキョーゲットー",
+      "artist": "Sou",
+      "has_synced": false,
+      "path": "select/08_トーキョーゲットー_Sou.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "トーキョーゲットー",
+      "artist": "Sou",
+      "has_synced": true,
+      "path": "select/09_トーキョーゲットー_Sou.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "トーキョーゲットー - Eve MV",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/10_トーキョーゲットー_-_Eve_MV_Eve.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "トーキョーゲットー - Tokyo Ghetto",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/11_トーキョーゲットー_-_Tokyo_Ghetto_Eve.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "09 トーキョーゲットー (Tokyo Ghetto) instrumental",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/12_09_トーキョーゲットー_(Tokyo_Ghetto)_instrumental_Eve.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トーキョーゲットー",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_トーキョーゲットー_Eve.txt"
+    }
+  ]
+}
